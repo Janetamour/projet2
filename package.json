@@ -1,0 +1,22 @@
+{
+  "name": "async-ferrari",
+  "version": "1.0.0",
+  "description": "mes progres ",
+  "main": "async.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janetamour/myasync-ferrari.git"
+  },
+  "keywords": [
+    "mywork"
+  ],
+  "author": "janet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janetamour/myasync-ferrari/issues"
+  },
+  "homepage": "https://github.com/Janetamour/myasync-ferrari#readme"
+}
